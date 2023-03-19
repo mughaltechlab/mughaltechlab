@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mughaltechlab
 - 👀 I’m interested in making games rather than playing games
-- 🌱 I’m currently learning web development
+- 🌱 I’m Flutter developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
