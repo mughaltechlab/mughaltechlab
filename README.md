@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saqib Ahmed *Flutter_Developer*
+- 👋 Hi, I’m Saqib Ahmed Flutter Developer
 - 👀 I’m interested in making games rather than playing games
 - 🌱 I’m Flutter developer
 - 💞️ I’m looking to collaborate on ...
