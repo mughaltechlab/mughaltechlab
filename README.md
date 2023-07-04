@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @mughaltechlab
+- 👋 Hi, I’m Saqib Ahmed~Flutter_Developer~
 - 👀 I’m interested in making games rather than playing games
 - 🌱 I’m Flutter developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- linkedIn :linkedin.com/in/saqib-ahmed-89b89826b
+- portfolio: saqibmughal.dorik.io
+- Youtube: youtube.com/@saqibAhmed533
+- email: saqibmughal533@gmail.com
 
 <!---
 mughaltechlab/mughaltechlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
