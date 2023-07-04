@@ -3,8 +3,8 @@
 - 🌱 I’m Flutter developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- linkedIn :linkedin.com/in/saqib-ahmed-89b89826b
-- portfolio: saqibmughal.dorik.io
+- linkedIn : https://www.linkedin.com/in/saqib-ahmed-89b89826b/
+- portfolio: https://saqibmughal.dorik.io
 - Youtube: youtube.com/@saqibAhmed533
 - email: saqibmughal533@gmail.com
 
