@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - linkedIn : https://www.linkedin.com/in/saqib-ahmed-89b89826b/
 - portfolio: https://saqibmughal.dorik.io
-- Youtube: youtube.com/@saqibAhmed533
+- Youtube: https://www.youtube.com/@saqibAhmed533
 - email: saqibmughal533@gmail.com
 
 <!---
