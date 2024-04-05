@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 - 👯 I’m looking to collaborate on **Frontend web projects**
-- 🌱 I’m currently learning **Php, react js**
+- 🌱 I’m currently learning **Next js**
 - 💬 Ask me about **flutter frontend api integration, frontend web tech**
 - 📫 How to reach me **saqibmughal533@gmail.com**
 - fiver    : https://www.fiverr.com/s/WA1x9R
