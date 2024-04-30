@@ -12,7 +12,7 @@
 - 📫 How to reach me **saqibmughal533@gmail.com**
 - fiver    : https://www.fiverr.com/s/WA1x9R
 - linkedIn : https://www.linkedin.com/in/saqib-ahmed-89b89826b/
-- portfolio: https://saqibmughal.dorik.io
+- portfolio: https://mughaltechlab.github.io/portfolio
 - email: saqibmughal533@gmail.com
 
 <div> <a href="https://www.linkedin.com/in/linkedin.com/in/saqib-ahmed-89b89826b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
